@@ -51,7 +51,7 @@ print("Coding Python2")
 print
 print
 time.sleep(4)
-print("=====Tool Satria Arinata=====")
+print("=====Tool Sekolah=====")
 print
 time.sleep(1)
 print("_________________________")
