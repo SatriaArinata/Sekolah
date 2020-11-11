@@ -133,7 +133,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -163,7 +163,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -190,7 +190,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -217,7 +217,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -244,7 +244,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -271,7 +271,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -290,7 +290,7 @@ if Pilihan == 1:
      
      if N == 15:
        import os
-       os.system("python2 Wawa.py")
+       os.system("python2 Sekolah.py")
        
      elif N == 20:
        time.sleep(2)
@@ -320,7 +320,7 @@ elif Pilihan == 2:
      
   if N == 15:
     import os
-    os.system("python2 Wawa.py")
+    os.system("python2 Sekolah.py")
        
   elif N == 20:
     time.sleep(2)
@@ -357,7 +357,7 @@ elif Pilihan == 3:
      
   if N == 15:
     import os
-    os.system("python2 Wawa.py")
+    os.system("python2 Sekolah.py")
        
   elif N == 20:
     time.sleep(2)
